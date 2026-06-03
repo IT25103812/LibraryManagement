@@ -1,17 +1,31 @@
-##Library Management System
+# Library Management System
 
-Simple Java console application for managing books.
+A simple Java console-based application for managing library books.
 
-Features
-Add books
-View books
-Borrow books
-Return books
-Run
-Compile:
+## Features
 
-javac src/*.java
+- Add new books
+- View all books
+- Borrow books
+- Return borrowed books
+- Simple menu-driven interface
 
-Run:
+## Technologies Used
 
-java -cp src Main
+- Java
+- Object-Oriented Programming (OOP)
+- ArrayList
+- Scanner Class
+
+## Project Structure
+
+```text
+LibraryManagement/
+│
+├── src/
+│   ├── Book.java
+│   ├── Library.java
+│   └── Main.java
+│
+├── README.md
+└── .gitignore
