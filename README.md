@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System 💻
 
 A simple Java console-based application for managing library books.
 
