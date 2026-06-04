@@ -36,10 +36,10 @@ LibraryManagement/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/IT25103812/SimpleCalculator.git
-```
+git clone 
+```https://github.com/IT25103812/LibraryManagement.git
 
 2. Open the project folder.
 
-3. Run the `index.html` file in your browser.
+3. Run it..
 
